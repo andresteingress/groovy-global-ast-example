@@ -39,5 +39,10 @@
 # "temporary" build files
 /target
 
+/.gradle
+/.idea
+/build
+
 # other
 *.iws
+*.iml
